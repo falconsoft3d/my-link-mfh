@@ -1,6 +1,5 @@
-# l10n-chile-9.0
 
-Localización Chilena de Odoo
+Listado de mis links
 =============================
 
 Repositorio de código del proyecto de la localización chilena para el software
