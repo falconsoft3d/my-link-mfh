@@ -41,7 +41,7 @@ Aplicaciones Móviles
 --------------
 No | Link | Descripción
 --- | --- | ---
- 1 | [www.romannurik.github.io](https://www.romannurik.github.io) | Crear logo para tu aplización. 
+ 1 | [www.romannurik.github.io](https://www.romannurik.github.io) | Crear logo para tu aplicación movil.
 
  
 
