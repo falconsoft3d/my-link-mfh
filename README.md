@@ -44,5 +44,12 @@ No | Link | Descripción
  1 | [www.romannurik.github.io](https://www.romannurik.github.io) | Crear logo para tu aplicación movil.
 
  
+ SEO
+--------------
+No | Link | Descripción
+--- | --- | ---
+ 1 | [www.deteresa.com](http://deteresa.com/) |Blog SEO
+ 
+
 
 [//]: # (end addons)
