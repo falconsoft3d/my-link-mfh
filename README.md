@@ -48,8 +48,8 @@ No | Link | Descripción
 --------------
 No | Link | Descripción
 --- | --- | ---
- 1 | [www.deteresa.com](http://deteresa.com/) |Blog SEO
- 
+ 1 | [www.deteresa.com](http://deteresa.com) |Blog SEO
+ 2 | [www.optimizacion-online.com](http://www.optimizacion-online.com) |Blog SEO
 
 
 [//]: # (end addons)
