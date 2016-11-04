@@ -43,9 +43,7 @@ No | Link | Descripción
 --- | --- | ---
  1 | [www.romannurik.github.io](https://www.romannurik.github.io) | Crear logo para tu aplicación movil.
  2 | [www.build.phonegap.com](https://www.build.phonegap.com) | Creador de app Móviles
- 
- https://build.phonegap.com/
- 
+
  
 [//]: # (end addons)
 
