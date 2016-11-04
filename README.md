@@ -62,3 +62,10 @@ No | Link | Descripción
  1 | [www.fiori-implementation.com](http://fiori-implementation.com) | SAP FIORI.
 [//]: # (end addons)
 
+
+EMPRENDIMIENTO
+--------------
+No | Link | Descripción
+--- | --- | ---
+ 1 | [www.indiegogo.com](https://www.indiegogo.com) | Sitio de oportunidades de negocios.
+[//]: # (end addons)
