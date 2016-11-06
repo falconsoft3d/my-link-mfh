@@ -46,8 +46,9 @@ No | Link | Descripción
  3 | [www.phonegapspain.com](https://www.phonegapspain.com) | Creador de app Móviles
  4 | [www.ionic.io](https://www.ionic.io) | Creador de app Móviles
  5 | [www.ionicframework.com](https://www.ionicframework.com) | Creador de app Móviles
+ 6 | [www.plugins.cordova.io](https://www.plugins.cordova.io) | Plugins de Cordova
 
- 
+
 [//]: # (end addons)
 
 
