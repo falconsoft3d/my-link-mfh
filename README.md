@@ -91,6 +91,25 @@ No | Link | Descripción
 
 
 
+ERP
+--------------
+No | Link | Descripción
+--- | --- | ---
+ 1 | [www.sdelsol.com](http://www.sdelsol.com/) | SDELSOL
+ 2 | [www.aspel.com.mx](http://www.aspel.com.mx) | ASPEL
+ 
+[//]: # (end addons)
+
+
+
+BI
+--------------
+No | Link | Descripción
+--- | --- | ---
+ 1 | [powerbi.microsoft.com](http://www.powerbi.microsoft.com) | Power BI
+ 
+[//]: # (end addons)
+
 
 
 
