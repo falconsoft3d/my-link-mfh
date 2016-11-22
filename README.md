@@ -50,6 +50,10 @@ No | Link | Descripción
  7 | [www.ninjamock.com](https://www.ninjamock.com) | Crear los Mockap de las App
  8 | [www.cubiq.org/iscroll-4](http://cubiq.org/iscroll-4) | Libreria para hacer scroll
  9 | [www.github.com/xui/xui](https://github.com/xui/xui) | Libreria JS para moviles
+ 9 | [www.github.com/ftlabs/fastclick](https://github.com/ftlabs/fastclick) | Rapides del click
+
+
+
  
  [//]: # (end addons)
 
