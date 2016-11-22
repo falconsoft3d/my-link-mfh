@@ -70,7 +70,7 @@ No | Link | Descripción
  5 | [www.css-tricks.com/examples/ButtonMaker](https://www.css-tricks.com/examples/ButtonMaker) | css
  6 | [www.3dcsstext.com](https://www.3dcsstext.com) | css
  7 | [www.spritecow.com](https://www.spritecow.com) | css
- 9 | [www.www.psdahtmlpasoapaso.com/blog/cargando-animados-con-css](https://www.psdahtmlpasoapaso.com/blog/cargando-animados-con-css | css
+ 9 | [www.www.psdahtmlpasoapaso.com/blog/cargando-animados-con-css](https://www.psdahtmlpasoapaso.com/blog/cargando-animados-con-css) | css
  
  [//]: # (end addons)
  
