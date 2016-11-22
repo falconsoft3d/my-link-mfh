@@ -111,5 +111,12 @@ No | Link | Descripción
 [//]: # (end addons)
 
 
-
+SAP FIORI
+--------------
+No | Link | Descripción
+--- | --- | ---
+ 1 | [www.sapfioritrial.com](https://www.sapfioritrial.com/) | SAP FIORI EJEMPLO
+ 2 | [go.sap.com](http://go.sap.com/documents/2016/07/ac208260-7e7c-0010-82c7-eda71af511fa.html) | Web IDE Developer 
+ 3 | [ondemand.com](https://tools.hana.ondemand.com/#sapui5) | Web IDE Developer Install
+[//]: # (end addons)
 
