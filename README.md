@@ -41,19 +41,18 @@ Aplicaciones Móviles
 --------------
 No | Link | Descripción
 --- | --- | ---
- 1 | [www.romannurik.github.io](https://www.romannurik.github.io) | Crear logo para tu aplicación movil.
- 2 | [www.build.phonegap.com](https://www.build.phonegap.com) | Creador de app Móviles
- 3 | [www.phonegapspain.com](https://www.phonegapspain.com) | Creador de app Móviles
- 4 | [www.ionic.io](https://www.ionic.io) | Creador de app Móviles
- 5 | [www.ionicframework.com](https://www.ionicframework.com) | Creador de app Móviles
- 6 | [www.plugins.cordova.io](https://www.plugins.cordova.io) | Plugins de Cordova
- 7 | [www.ninjamock.com](https://www.ninjamock.com) | Crear los Mockap de las App
- 8 | [www.cubiq.org/iscroll-4](http://cubiq.org/iscroll-4) | Libreria para hacer scroll
- 9 | [www.github.com/xui/xui](https://github.com/xui/xui) | Libreria JS para moviles
- 10 | [www.github.com/ftlabs/fastclick](https://github.com/ftlabs/fastclick) | Rapides del click
-
-
-
+ 1 | [www.pgicons.abiro.com](https://pgicons.abiro.com) | Crear logo para tu aplicación movil. OKOK
+ 2 | [www.romannurik.github.io](https://www.romannurik.github.io) | Crear logo para tu aplicación movil.
+ 3 | [www.build.phonegap.com](https://www.build.phonegap.com) | Creador de app Móviles
+ 4 | [www.phonegapspain.com](https://www.phonegapspain.com) | Creador de app Móviles
+ 5 | [www.ionic.io](https://www.ionic.io) | Creador de app Móviles
+ 6 | [www.ionicframework.com](https://www.ionicframework.com) | Creador de app Móviles
+ 7 | [www.plugins.cordova.io](https://www.plugins.cordova.io) | Plugins de Cordova
+ 8 | [www.ninjamock.com](https://www.ninjamock.com) | Crear los Mockap de las App
+ 9 | [www.cubiq.org/iscroll-4](http://cubiq.org/iscroll-4) | Libreria para hacer scroll
+10 | [www.github.com/xui/xui](https://github.com/xui/xui) | Libreria JS para moviles
+11 | [www.github.com/ftlabs/fastclick](https://github.com/ftlabs/fastclick) | Rapides del click
+ 
  
  [//]: # (end addons)
  
