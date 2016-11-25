@@ -147,6 +147,16 @@ No | Link | Descripción
 [//]: # (end addons)
 
 
+
+ODOO
+--------------
+No | Link | Descripción
+--- | --- | ---
+ 1 | [goliveira.gitbooks.io](https://goliveira.gitbooks.io/bachacove/content/index.html) | Odoo
+ 
+[//]: # (end addons)
+
+
 SAP FIORI
 --------------
 No | Link | Descripción
