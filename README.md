@@ -30,6 +30,8 @@ No | Link | Descripción
  8 | [www.pubnub.com](https://www.pubnub.com) | Tiempo Real
  9 | [www.firebase.com](https://www.firebase.com) | Tiempo Real
  10 | [www.dashboard.zopim.com](https://www.dashboard.zopim.com) | Chat para tu web
+ 11 | [www.bootsnipp.com](http://bootsnipp.com/) | Chat para tu web
+ 
 
 
 [//]: # (end addons)
