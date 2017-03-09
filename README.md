@@ -155,6 +155,10 @@ ODOO
 No | Link | Descripción
 --- | --- | ---
  1 | [goliveira.gitbooks.io](https://goliveira.gitbooks.io/bachacove/content/index.html) | Odoo
+ 2 | [ludwiktrammer.github.io](http://ludwiktrammer.github.io) | Odoo
+ 3 | [odoo-new-api-guide-line](http://odoo-new-api-guide-line.readthedocs.io/en/latest/) | Odoo
+
+ 
  
 [//]: # (end addons)
 
